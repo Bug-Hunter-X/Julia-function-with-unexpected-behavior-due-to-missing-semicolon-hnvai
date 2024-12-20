@@ -1,0 +1,3 @@
+# Julia function with unexpected behavior due to missing semicolon
+
+This repository demonstrates a subtle bug in a Julia function caused by a missing semicolon. While the function executes without errors, the unexpected behavior highlights the importance of following best practices. This example showcases how a seemingly insignificant omission can lead to confusing results and more serious issues in larger, more complex codebases.  The solution demonstrates the corrected code for enhanced clarity and maintainability.
